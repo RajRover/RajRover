@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>🔭 I’m currently working on<br>- AI-powered networking & RAG applications<br><br>🌱 I’m currently learning<br>- Agentic AI, LangGraph & Deep Learning<br><br>👯 I’m looking to collaborate on<br>- AI/ML and Open Source Projects<br><br>💬 Ask me about<br>- Python, C++, SQL, Machine Learning, LLMs & RAG<br><br>⚡ Fun fact<br>- I enjoy building AI applications that solve real-world problems.
+# 💫 About Me
+🚀 AI Developer passionate about building intelligent applications with Python, LLMs, and RAG, currently exploring Agentic AI and Deep Learning.
 
 
 ## 🌐 Socials:
